@@ -40,9 +40,7 @@ import javax.swing.JLabel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
-import javax.swing.UIManager;
 import modelo.ConexionBD;
-import org.pushingpixels.substance.api.SubstanceLookAndFeel;
 
 /**
  *

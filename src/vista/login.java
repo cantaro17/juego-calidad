@@ -64,7 +64,7 @@ public class login extends JFrame {
 
     //placeholder
     PlaceHolder phuser, phpass, phver;
-    PlaceHolder phuser, phpass, phver;
+    
 
     //cambio de imagen
     Calendar calendario;
@@ -74,8 +74,6 @@ public class login extends JFrame {
     float x_form, width_form;
 
     String texto_vacio = "";
-    int alturaVacio = 195;
-       String texto_vacio = "";
     int alturaVacio = 195;
 
     int validarCaptcha;
